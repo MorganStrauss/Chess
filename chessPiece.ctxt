@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y\ z\ s\ b
+comment0.target=chessPiece(int,\ int,\ java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=int\ getY()
+comment1.text=public\ int\ getX()\ {\r\n\ \ \ \ \ \ \ \r\n}
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=java.lang.String\ getSide()
+comment4.params=
+comment4.target=int\ getBox()
+comment5.params=b
+comment5.target=void\ setBox(int)
+comment6.params=b
+comment6.target=boolean\ hasPiece(int)
+numComments=7
